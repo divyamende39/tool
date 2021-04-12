@@ -1,0 +1,6 @@
+What is DevOps?
+There is a lot of talk about “DevOps” in the technical community, and for all the talk we have yet to see a single definition agreed upon. One potential reason for the lack of a clear definition could be that no single solution will fit every company. If we look at the different proposed definitions, and the tools being branded as “DevOps tools,” we can start to see that DevOps is all about efficiently providing the customer with the best possible product.
+
+There is no perfect model for the software development life cycle (SDLC). There are, however, a lot of different options for each phase of the SDLC that have been utilized successfully throughout the years.
+
+Every so often a shift in the way we think about phases of the SDLC comes about. An individual or group analyzes years of experiences and distills them into a proposed solution, concept, or philosophy. Concepts like agile development, continuous integration (CI), and continuous delivery (CD) have helped companies move their code into production faster, more reliable, and with less downtime. These solutions support new thinking, offering valuable frameworks used at every development level, from beginners through expert gurus.
